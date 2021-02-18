@@ -1,0 +1,26 @@
+body{
+	background-color: #B8B5B1;
+}
+h1{
+	font-size: 15px;
+	color: brown;
+}
+h2{
+	color: lightblue;
+}
+
+.main{
+	font-family: courier;
+}
+
+.lol{
+	color: gray;
+}
+
+.main.lol{
+	color: black;
+}
+
+h1 span{
+	color: blue;
+}
